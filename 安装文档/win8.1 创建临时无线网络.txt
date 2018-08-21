@@ -1,0 +1,4 @@
+创建临时无线网络
+netsh wlan set hostednetwork mode=allow ssid=KL_TEMP key=liyan123
+启动临时无线网络
+netsh wlan start hostednetwork
